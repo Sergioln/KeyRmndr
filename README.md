@@ -1,2 +1,2 @@
 # KeyRmndr
-Python Script to remaind the keys before go out of home
+Python Script to remind the keys before go out of home
